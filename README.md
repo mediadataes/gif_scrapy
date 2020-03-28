@@ -1,1 +1,2 @@
-# gif_scrapy
+# scrapy_gif
+Gif scraper

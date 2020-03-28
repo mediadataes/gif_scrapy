@@ -1,0 +1,4 @@
+scrapy
+airtable-python-wrapper
+selenium
+scrapy-selenium
